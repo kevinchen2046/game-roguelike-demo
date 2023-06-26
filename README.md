@@ -1,4 +1,4 @@
 # game-roguelike-demo
-egret + 像素 + 灯光shader
+egret + pixi.art + light.shader
 
 demo: https://kevinchen2046.github.io/demo/roguelike/
