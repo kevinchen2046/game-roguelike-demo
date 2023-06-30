@@ -6,3 +6,5 @@
 ![img](https://kevinchen2046.github.io/thum/ScreenDemo.png)
 - WaveDemo: https://kevinchen2046.github.io/demo/WaveDemo/
 ![img](https://kevinchen2046.github.io/thum/WaveDemo.png)
+- PIXIDemo: https://kevinchen2046.github.io/demo/PIXIDemo/
+![img](https://kevinchen2046.github.io/thum/PIXIDemo.png)
