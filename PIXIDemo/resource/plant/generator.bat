@@ -1,1 +1,0 @@
-spritesheet-game ./Assets/**/*.png -f egret -n plant -p 1
